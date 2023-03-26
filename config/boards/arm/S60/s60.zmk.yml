@@ -1,0 +1,11 @@
+file_format: "1"
+id: S60
+name: S60
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
+
