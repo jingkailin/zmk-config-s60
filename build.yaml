@@ -13,6 +13,6 @@
 #
 ---
 include:
-  - board: s40nc
+  - board: s60
 include:
-  - board: s40nc
+  - board: s60
