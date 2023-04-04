@@ -44,7 +44,7 @@
     &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans    &trans     &trans   &trans   &trans
     &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &kp UP    &trans     &trans            &trans
     &trans               &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT   &trans
-    &trans  &bootloader  &trans                          &trans                                         &trans   &trans   &trans
+    &reset  &bootloader  &trans                          &trans                                         &trans   &trans   &trans
             >;
         };
     };
