@@ -14,5 +14,3 @@
 ---
 include:
   - board: s60
-include:
-  - board: s60
